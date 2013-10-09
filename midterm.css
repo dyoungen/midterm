@@ -1,6 +1,8 @@
-html {background: url(image/old.jpg) no-repeat center center fixed; 
+html {background-color:black;
 	}
 
+body {background: url(image/old.png) no-repeat center center fixed; 
+	}
 	.page-wrapper {
 position: relative;
 width: 450px;
