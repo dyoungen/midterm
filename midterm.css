@@ -1,11 +1,13 @@
 html {background-color:black;
+	
 	}
 
 body {background: url(image/old.png) no-repeat center center fixed; 
+		
 	}
 	.page-wrapper {
 position: relative;
-width: 450px;
+width: 600px;
 margin: 0 auto;
 padding: 230px 0 350px 0;
 font-size: 0.8em;
@@ -14,5 +16,5 @@ background-color: black;
 color: #00FF00;
 text-align: left;
 z-index: -1;
-
+left:-250px;
 }
