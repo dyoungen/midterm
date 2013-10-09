@@ -10,10 +10,9 @@ margin: 0 auto;
 padding: 230px 0 350px 0;
 font-size: 0.8em;
 font-family: arial, sans serif;
-background-color: #313131;
-color: #b9b9b9;
+background-color: black;
+color: #00FF00;
 text-align: left;
-background-image: url('Old-Computer.jpg');
-z-index: 3;
+z-index: -1;
 
 }
